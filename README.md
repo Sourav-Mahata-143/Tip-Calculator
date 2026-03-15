@@ -2,7 +2,7 @@
 
 > A beautiful, fast, and functional web application that calculates your restaurant bill and tip in an instant!
 
-🚀 **[https://sourav-mahata-143.github.io/Tip-Calculator/)**
+🚀 **[Live Preview: Click here to view the project](https://sourav-mahata-143.github.io/Tip-Calculator/)**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
